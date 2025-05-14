@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Node modules (for later, if you use npm)
+node_modules/
+
+# Builds
+dist/
+
+# Env files
+.env
